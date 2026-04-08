@@ -53,14 +53,3 @@
 * 🔎 Malware Analysis
 * 🛡️ Blue Team (Detection & Analysis)
 * 🌐 Web Exploitation 
-
----
-
-## 🌐 Connect
-
-<p align="center">
-  <a href="https://linkedin.com/in/razlan-ramli-99a527186/">LinkedIn</a> •
-  <a href="https://171k.my">Blog</a>
-</p>
-
- 
