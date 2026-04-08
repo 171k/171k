@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&width=500\&lines=Razlan+Ramli;Cybersecurity+Student;CTF+Player+%7C+Builder;Blue+Team+%26+Pentest)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&width=500\&lines=Hello,+I+am+Razlan+Ramli;I+am+a+Cybersecurity+Student;CTF+Player+%7C+Builder;Blue+Team+%26+Pentesting)](https://git.io/typing-svg)
 
 ---
 
