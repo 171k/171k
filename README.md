@@ -1,5 +1,14 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&width=500\&lines=Hello,+I+am+Razlan+Ramli;I+am+a+Cybersecurity+Student;CTF+Player+%7C+Builder;Blue+Team+%26+Pentesting)](https://git.io/typing-svg)
 
+<img src="https://171k.my/assets/duckrain.png" alt="header image"/>
+ 
+<p align='center'> 
+<a href="https://www.linkedin.com/in/razlan-ramli-99a527186/"><img height="25" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://x.com/itiklan"><img height="25" src="https://img.shields.io/badge/Twitter-%231DA1F1.svg?&style=for-the-badge&logo=X&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://github.com/171k"><img height="25" src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"></a>&nbsp;&nbsp;
+<a href="https://medium.com/@171k"><img height="25" src="https://img.shields.io/badge/Medium-%23000000.svg?&style=for-the-badge&logo=medium&logoColor=white"></a>&nbsp;&nbsp;
+</p>
+
 ---
 
 ## 🧠 About Me
