@@ -19,15 +19,6 @@
 * 🔍 Analyze **real-world attacks (phishing, scams, OSINT cases)**
 * 🛠️ Develop **security-focused web applications & systems**
 * 🧠 Practice: exploit → analyze → document
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,linux,docker,flask,php,mysql,js,git" />
-</p>
-
 ---
 
 ## 🚀 Featured Work
@@ -43,15 +34,6 @@
 🔗 https://171k.my/2026/03/10/tngmadaniphishing/
 
 > Investigation of a real-world phishing campaign (TNG Madani case)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
