@@ -1,4 +1,6 @@
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&weight=500\&pause=1000\&width=500\&lines=Hello,+I+am+Razlan+Ramli;I+am+a+Cybersecurity+Student;CTF+Player+%7C+Builder;Blue+Team+%26+Pentesting)](https://git.io/typing-svg)
+</p>
 
 <p align="center">
 <img src="https://171k.my/assets/duckrain.png" alt="header image"/>
