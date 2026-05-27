@@ -34,9 +34,9 @@
 
 ## 🚀 Featured Work
 
-* 🔐 **Cyber Range Platform (CTFd-based training environment)**
+* 🔐 **Cyber Range Platform (CTFd-based training environment)** (https://awan.uitm.edu.my/ctf)
  
-* 🎮 **Browser-based CTF / security games**
+* 🎮 **Browser-based cybersecurity games**
 
 ---
 
