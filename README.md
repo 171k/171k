@@ -19,6 +19,7 @@
 * 🔐 Focus: **Malware Analysis, CTF and Security Research**
 * 🧪 Building a **Cyber Range (Final Year Project)**
 * 📝 Writing **real-world security analysis & investigations**
+* 🎮 Developing **vulnerable games for beginner CTF player to exploit!**
 
 👉 Blog: https://171k.my
 
@@ -26,10 +27,10 @@
 
 ## ⚔️ What I Do
 
-* 🧩 Build and design **CTF challenges (Web-focused)**
+* 🧩 Build and design **CTF challenges (Reverse Engineering/Misc)**
 * 🔍 Analyze **real-world attacks (phishing, scams, OSINT cases)**
 * 🛠️ Develop **security-focused web applications & systems**
-* 🧠 Practice: exploit → analyze → document
+* 🧠 Diving into **game development (Renpy, RPGM, Godot, UNITY)**
 ---
 
 ## 🚀 Featured Work
@@ -52,4 +53,4 @@
 
 * 🔎 Malware Analysis
 * 🛡️ Blue Team (Detection & Analysis)
-* 🌐 Web Exploitation 
+* 🌐 Game Development
