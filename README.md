@@ -16,7 +16,7 @@
 ## 🧠 About Me
 
 * 🎓 Final Year Computer Science student @ UiTM
-* 🔐 Focus: **Web Security, CTF, and Security Research**
+* 🔐 Focus: **Malware Analysis, CTF and Security Research**
 * 🧪 Building a **Cyber Range (Final Year Project)**
 * 📝 Writing **real-world security analysis & investigations**
 
